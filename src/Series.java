@@ -11,7 +11,7 @@ public class Series {
 		            {
 		            sqr = sqr *3;	
 		            }
-		            System.out.println("Hello");
+		            System.out.println("Hi");
 		        }
 		        
 	
