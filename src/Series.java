@@ -12,7 +12,7 @@ public class Series {
 		            sqr = sqr *3;	
 		            }
 		            System.out.println("Hi");
-		System.out.println("Complete");
+		
 		        }
 		        
 	
